@@ -6,11 +6,11 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 ## 1. Arrays & Hashing
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy
-- [ ] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) — Easy
+- [x] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) — Easy
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/) — Easy
-- [ ] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) — Easy
+- [x] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) — Easy
 - [x] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) — Easy
-- [ ] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) — Easy
+- [x] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) — Easy
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) — Easy
 - [ ] [Plus One](https://leetcode.com/problems/plus-one/) — Easy
 - [ ] [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) — Easy
