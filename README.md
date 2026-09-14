@@ -4,6 +4,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 [LC list](https://leetcode.com/problem-list/dfirdbl2/) - [My LC account](https://leetcode.com/u/sharqawycs)
 
 ## 1. Arrays & Hashing
+
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy
 - [x] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) — Easy
@@ -11,26 +12,28 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [x] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) — Easy
 - [x] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) — Easy
 - [x] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) — Easy
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) — Easy
-- [ ] [Plus One](https://leetcode.com/problems/plus-one/) — Easy
-- [ ] [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) — Easy
-- [ ] [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) — Easy
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — Medium
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — Medium
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — Medium
-- [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) — Medium
+- [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) — Easy
+- [x] [Plus One](https://leetcode.com/problems/plus-one/) — Easy
+- [x] [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) — Easy
+- [x] [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) — Easy
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — Medium
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — Medium
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — Medium
+- [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) — Medium
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — Medium
 - [ ] [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) — Medium
 
 ## 2. Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
+
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
 - [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) — Medium
 - [ ] [3Sum](https://leetcode.com/problems/3sum/) — Medium
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) — Medium
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — Hard
 
 ## 3. Sliding Window
+
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — Medium
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium
@@ -40,6 +43,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — Hard
 
 ## 4. Stack
+
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/) — Medium
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) — Medium
@@ -49,10 +53,12 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) — Hard
 
 ## 5. Queues
+
 - [ ] [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) — Easy
 - [ ] [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) — Easy
 
 ## 6. Binary Search
+
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/) — Easy
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) — Medium
 - [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) — Medium
@@ -62,16 +68,19 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) — Hard
 
 ## 7. Bit Manipulation
+
 - [ ] [Single Number](https://leetcode.com/problems/single-number/) — Easy
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/) — Easy
 
 ## 8. Dynamic Programming
+
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) — Easy
 - [ ] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) — Easy
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — Medium
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/) — Medium
 
 ## 9. Backtracking
+
 - [ ] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) — Medium
 - [ ] [Subsets](https://leetcode.com/problems/subsets/) — Medium
 - [ ] [Combinations](https://leetcode.com/problems/combinations/) — Medium
@@ -82,6 +91,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) — Medium
 
 ## 10. Linked Lists
+
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) — Easy
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) — Easy
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) — Easy
@@ -99,6 +109,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) — Hard
 
 ## 11. Binary Trees
+
 - [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) — Easy
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) — Easy
 - [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) — Easy
@@ -117,6 +128,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) — Hard
 
 ## 12. Binary Search Trees (BST)
+
 - [ ] [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) — Easy
 - [ ] [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) — Medium (easy logic, listed medium)
 - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) — Easy
@@ -128,11 +140,13 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) — Medium
 
 ## 13. Tries
+
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) — Medium
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) — Medium
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/) — Hard
 
 ## 14. Heaps / Priority Queue
+
 - [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) — Easy
 - [ ] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) — Easy
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) — Medium
@@ -142,9 +156,9 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) — Hard
 
 ## 15. Graphs
+
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) — Medium
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/) — Medium
 - [ ] [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) — Medium
 
 ---
-
