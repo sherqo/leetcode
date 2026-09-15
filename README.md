@@ -21,13 +21,13 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — Medium
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — Medium
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) — Medium
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — Medium
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) — Medium
 - [ ] [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) — Medium
 
 ## 2. Two Pointers
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
-- [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) — Medium
+- [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) — Medium
 - [ ] [3Sum](https://leetcode.com/problems/3sum/) — Medium
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) — Medium
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — Hard
