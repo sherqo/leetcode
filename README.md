@@ -29,13 +29,13 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
 - [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) — Medium
 - [ ] [3Sum](https://leetcode.com/problems/3sum/) — Medium
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) — Medium
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) — Medium
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — Hard
 
 ## 3. Sliding Window
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy
-- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — Medium
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy
+- [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — Medium
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) — Medium
 - [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/) — Medium
