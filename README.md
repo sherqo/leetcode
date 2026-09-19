@@ -36,9 +36,9 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy
 - [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — Medium
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) — Medium
-- [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/) — Medium
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium
+- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) — Medium
+- [x] [Permutation in String](https://leetcode.com/problems/permutation-in-string/) — Medium
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) — Hard
 - [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) — Hard
 
