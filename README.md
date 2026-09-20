@@ -44,12 +44,12 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 
 ## 4. Stack
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/) — Medium
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/) — Medium
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) — Medium
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — Medium
 - [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — Medium
-- [ ] [Car Fleet](https://leetcode.com/problems/car-fleet/) — Medium
+- [x] [Car Fleet](https://leetcode.com/problems/car-fleet/) — Medium
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) — Hard
 
 ## 5. Queues
