@@ -54,8 +54,8 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 
 ## 5. Queues
 
-- [ ] [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) — Easy
-- [ ] [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) — Easy
+- [x] [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) — Easy
+- [x] [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) — Easy
 
 ## 6. Binary Search
 
