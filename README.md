@@ -59,7 +59,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 
 ## 6. Binary Search
 
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/) — Easy
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/) — Easy
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) — Medium
 - [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) — Medium
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) — Medium
