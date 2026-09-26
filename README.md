@@ -46,9 +46,8 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — Easy
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/) — Medium
-- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) — Medium
-- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — Medium
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — Medium
+- [x] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) — Medium
+- [x] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — Medium
 - [x] [Car Fleet](https://leetcode.com/problems/car-fleet/) — Medium
 - [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) — Hard
 
@@ -81,6 +80,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 
 ## 9. Backtracking
 
+- [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — Medium
 - [ ] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) — Medium
 - [ ] [Subsets](https://leetcode.com/problems/subsets/) — Medium
 - [ ] [Combinations](https://leetcode.com/problems/combinations/) — Medium
