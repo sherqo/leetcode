@@ -28,7 +28,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy
 - [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) — Medium
-- [ ] [3Sum](https://leetcode.com/problems/3sum/) — Medium
+- [x] [3Sum](https://leetcode.com/problems/3sum/) — Medium
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) — Medium
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) — Hard
 
