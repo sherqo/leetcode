@@ -62,7 +62,7 @@ Ordered by topic, easy → medium within each topic (I don't recommend spend tim
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) — Medium
 - [x] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) — Medium
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) — Medium
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) — Medium
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) — Medium
 - [x] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) — Medium
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) — Hard
 
